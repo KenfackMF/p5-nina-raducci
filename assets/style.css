@@ -81,10 +81,12 @@
 }
 .about-me__introduction {
 	font-family: 'Spectral';
+	font-size: 1em;
 	font-weight: 800;
 	font-style: italic;
 	width: 60%;
 }
+
 #about-me p {
 	width: 80%;
 	font-size: 14px;
@@ -102,13 +104,13 @@
 }
 .nav-pills .nav-link.active, .nav-pills .show .active-tag> .nav-link {
 	color: #fff;
-	background-color: #E5975F;
+	background-color: #1C6474;
 	border-radius:0 ;
 	cursor: pointer;
 }
 
 .nav-link.active-tag {
-	background-color: #E5975F;
+	background-color: #1C6474;
 	color: #ffffff;
 	cursor: pointer;
   }
@@ -158,6 +160,7 @@
 }
 .quote__text {
 	font-family: Spectral;
+	font-size: 2.4em;
 	font-style: italic;
 	font-weight: 300;
 
